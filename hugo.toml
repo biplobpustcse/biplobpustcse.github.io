@@ -26,7 +26,7 @@ In Designing, Developing & Scaling Systems. I am passionate about solving comple
 
   [[params.profileMode.buttons]]
     name = "Blogs"
-    url = "posts"
+    url = "blogs"
 
   [[params.profileMode.buttons]]
     name = "About"
@@ -39,7 +39,7 @@ In Designing, Developing & Scaling Systems. I am passionate about solving comple
     weight = 1
   [[menu.main]]
     name = "Blogs"
-    url = "/posts/"
+    url = "/blogs/"
     weight = 2
   [[menu.main]]
     name = "About"

@@ -1,0 +1,11 @@
+baseURL = "https://biplobpustcse.github.io/"
+title = "My Blog"
+languageCode = "en"
+theme = "PaperMod"
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  defaultTheme = "auto"

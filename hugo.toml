@@ -1,5 +1,5 @@
 baseURL = "https://biplobpustcse.github.io/"
-title = "My Blog"
+title = "Biplob’s Dev Notes"
 languageCode = "en"
 theme = "PaperMod"
 enableRobotsTXT = true
@@ -9,3 +9,23 @@ enableRobotsTXT = true
 
 [params]
   defaultTheme = "auto"
+  showReadingTime = true
+  showBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+

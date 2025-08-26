@@ -14,13 +14,31 @@ enableRobotsTXT = true
   ShowPostNavLinks = true
   ShowCodeCopyButtons = true
 
+  [params.profileMode]
+  enabled = true # needs to be explicitly set
+  title = "Md. Biplob Hosen"
+  subtitle = """A Senior Software Engineer 
+In Designing, Developing & Scaling Systems. I am passionate about solving complex problems, optimizing systems, and delivering impactful solutions."""
+  imageUrl = "/img/profile.png"
+  imageWidth = 300
+  imageHeight = 300
+  imageTitle = "Md. Biplob Hosen"
+
+  [[params.profileMode.buttons]]
+    name = "Blogs"
+    url = "posts"
+
+  [[params.profileMode.buttons]]
+    name = "About"
+    url = "/about/"
+
 [menu]
   [[menu.main]]
     name = "Home"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Posts"
+    name = "Blogs"
     url = "/posts/"
     weight = 2
   [[menu.main]]

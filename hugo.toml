@@ -24,6 +24,26 @@ In Designing, Developing & Scaling Systems. I am passionate about solving comple
   imageHeight = 300
   imageTitle = "Md. Biplob Hosen"
 
+[[params.socialIcons]]
+    name = "email"
+    url  = "mailto:biplobpustcse@gmail.com"
+
+  [[params.socialIcons]]
+    name = "github"
+    url  = "https://github.com/biplobpustcse"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/biplobpustcse"
+
+  [[params.socialIcons]]
+    name = "facebook"
+    url  = "https://www.facebook.com/biplobpustcse"
+
+  [[params.socialIcons]]
+    name = "resume"
+    url  = "/biplob-hosen-resume.pdf"
+
   [[params.profileMode.buttons]]
     name = "Blogs"
     url = "blogs"
@@ -38,13 +58,13 @@ In Designing, Developing & Scaling Systems. I am passionate about solving comple
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
-  [[menu.main]]
     name = "Blogs"
     url = "/blogs/"
-    weight = 3  
+    weight = 2
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
   [[menu.main]]
     name = "🔍 Search"
     url = "/search/"

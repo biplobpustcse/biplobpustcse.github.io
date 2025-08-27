@@ -35,11 +35,11 @@ cover:
 
 There are lots of different software development methodologies present, and each of them has its own advantages and disadvantages. In this article, we will discuss the five most commonly used software development methodologies: Agile, Scrum, Waterfall, Kanban, and DevOps.
 
-**- Agile**
-**- Scrum**
-**- Waterfall**
-**- Kanban**
-**- DevOps**
+- **Agile**
+- **Scrum**
+- **Waterfall**
+- **Kanban**
+- **DevOps**
 
 ## Agile
 In English, Agile means ‘the ability to move quickly and easily’ and respond to change rapidly – this is an important aspect of **Agile software development**. Agile Software Development is a software development methodology that values flexibility, collaboration, and customer satisfaction. **The Agile Model** was primarily designed to help a project adapt quickly to change requests. So, the main aim of the Agile model is to facilitate quick project completion.

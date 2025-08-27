@@ -45,5 +45,9 @@ In Designing, Developing & Scaling Systems. I am passionate about solving comple
     name = "About"
     url = "/about/"
     weight = 3
+  [[menu.main]]
+    name: "🔍 Search"
+    url: "/search/"
+    weight: 4
 
 

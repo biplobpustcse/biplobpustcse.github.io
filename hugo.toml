@@ -58,13 +58,13 @@ In Designing, Developing & Scaling Systems. I am passionate about solving comple
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Blogs"
-    url = "/blogs/"
-    weight = 2
-  [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 2
+  [[menu.main]]
+    name = "Blogs"
+    url = "/blogs/"
+    weight = 3 
   [[menu.main]]
     name = "🔍 Search"
     url = "/search/"

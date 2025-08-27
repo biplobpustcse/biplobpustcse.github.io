@@ -27,7 +27,7 @@ cover:
 
 ### Overview
 
-Software Developer with over 8 years of experience designing, developing, and optimizing scalable, high-performance software solutions. Specializing in using .NET Core, SQL Server, React JS, Angular, RabbitMQ, Azure, Docker, CI/CD, MS SQL Server, and PostgreSQL. Experienced in building scalable backend systems, dynamic frontend applications, and optimizing cloud deployments.
+Software Developer with over 8 years of experience designing, developing, and optimizing scalable, high-performance software solutions. Specializing in using .NET Core, MS SQL Server, PostgreSQL, React JS, Angular, RabbitMQ, Azure, Docker, and CI/CD. Experienced in building scalable backend systems, dynamic frontend applications, and optimizing cloud deployments.
 
 When designing and building systems, I always focus on:
 
@@ -41,8 +41,8 @@ When designing and building systems, I always focus on:
 - Problem Solving • Leadership • Communication • Cross-functional Collaboration • Ownership
 - Software Architecture • Microservice Design • REST API Design
 - Languages/Frameworks: .NET Core (C#)
-- Databases: MS SQL Server,PostgreSQL, MongoDB
-- DevOps/Cloud: Docker, CI/CD,Azure, AWS
+- Databases: MS SQL Server, PostgreSQL, MongoDB
+- DevOps/Cloud: Docker, CI/CD, Azure, AWS
 - Frontend: JavaScript, TypeScript, React.js, Angular
 
 

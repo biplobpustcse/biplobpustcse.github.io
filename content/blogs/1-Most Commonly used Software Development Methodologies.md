@@ -66,6 +66,7 @@ In English, Agile means ‘the ability to move quickly and easily’ and respond
 4.	Sometimes in Agile methodology, the requirement is not very clear, hence it’s difficult to predict the expected result.
 
 **Suitable for**
+
 Agile software development is suitable for projects that require flexibility and continuous improvement. It is best for projects with changing requirements, where the ability to adapt quickly is essential. It’s also ideal for projects that involve innovation and experimentation. In terms of team size, Agile is effective for small to medium-sized teams that can collaborate closely and make decisions quickly.
 
 However, Agile may not be the best fit for projects with a lack of collaboration and communication. It may not work for large projects that demand a rigid structure and a lot of documentation. This method is also not suitable for projects with insufficient participation of the product owner, where it’s impossible to reach them to get feedback, or they simply don’t have time for it.

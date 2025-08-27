@@ -50,4 +50,9 @@ In Designing, Developing & Scaling Systems. I am passionate about solving comple
     url = "/search/"
     weight = 4
 
+[params.search]
+  fuse = true
+  fuseOpts = '{ "isCaseSensitive": false, "threshold": 0.3 }'
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

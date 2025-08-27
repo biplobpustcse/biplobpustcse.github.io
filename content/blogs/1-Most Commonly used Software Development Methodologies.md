@@ -1,5 +1,5 @@
 ---
-title: "Most Commonly Used Software Development Methodologies"
+title: "Software Development Methodologies"
 description: "Most Commonly Used Software Development Methodologies"
 date: 2025-08-27
 tags: ["Software development", "Agile", "Scrum", "Waterfall"]

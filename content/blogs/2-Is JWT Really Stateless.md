@@ -41,9 +41,9 @@ ________________________________________
 **🛑 The Limitations of Stateless JWT**
 
 A purely stateless JWT, once issued, remains valid until its expiry (exp). This causes a few serious problems:
-•	Logout doesn’t work → Even after a user logs out, their token is still valid until it expires.
-•	Password changes don’t invalidate sessions → Old tokens can still be used, even after resetting a password.
-•	Uncontrolled multi-device logins → The same account can be logged in across multiple devices without restrictions.
+- Logout doesn’t work → Even after a user logs out, their token is still valid until it expires.
+- Password changes don’t invalidate sessions → Old tokens can still be used, even after resetting a password.
+- Uncontrolled multi-device logins → The same account can be logged in across multiple devices without restrictions.
 
 These issues make JWTs insecure if we rely only on their stateless nature.
 ________________________________________
@@ -88,10 +88,10 @@ ________________________________________
 
 To make JWTs as reliable as a passport, always include key claims:
 
-•	jti (JWT ID): Unique identifier for each token (used for revocation).
-•	iss (Issuer): The system or authority that issued the token.
-•	aud (Audience): The intended recipient app/service (e.g., web, mobile).
-•	exp (Expiration Time): Short token lifetime (e.g., 1–2 hours) to limit damage if stolen.
+- jti (JWT ID): Unique identifier for each token (used for revocation).
+- iss (Issuer): The system or authority that issued the token.
+- aud (Audience): The intended recipient app/service (e.g., web, mobile).
+- exp (Expiration Time): Short token lifetime (e.g., 1–2 hours) to limit damage if stolen.
 ________________________________________
 **📣 Final Thoughts**
 
